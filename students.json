@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Samiksha",
+        "branch": "CSE",
+        "cgpa": "8.51"
+    },
+    {
+        "name": "Simran",
+        "branch": "CSE",
+        "cgpa": "9.3"
+    },
+    {
+        "name": "Simran",
+        "branch": "CSE",
+        "cgpa": "9.3"
+    },
+    {
+        "name": "Shipra",
+        "branch": "CSE",
+        "cgpa": "8.7"
+    },
+    {
+        "name": "riya",
+        "branch": "CSE",
+        "cgpa": "8.6"
+    },
+    {
+        "name": "sonam",
+        "branch": "CSE",
+        "cgpa": "8.5"
+    }
+]
